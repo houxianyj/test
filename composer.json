@@ -1,5 +1,5 @@
 {
-    "name": "houxianyj/test",
+    "name": "test/yao",
     "description": "this is a test",
     "type": "library",
     "license": "MIT",
@@ -12,6 +12,6 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "psr-4": {"Yao\\": "Yao/src/"}
+        "psr-4": {"Yao\\": "src/"}
     }
 }
